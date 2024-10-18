@@ -1,0 +1,7 @@
+php files redirect to html
+
+publications.html seems to drop some records around #51 (see Cluster coarsening...)
+I've hacked it by doubling one entry
+
+see cat publications.html|grep Rutenberg|wc against numbered entries
+
